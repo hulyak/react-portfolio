@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Hulya Karakaya",
+    "occupation": "Front End Developer",
+    "description": "Front End Javascript - React and Node developer",
+    "image": "avatar.jpg",
+    "bio": "My name is Hulya, I am working with Javascript, React and Node, using MERN stack.",
+    "contactmessage": "Get in touch with me to receive further details, or anything else.",
+    "email": "hulyakarakayaa06@gmail.com",
+    "phone": "+44 12 345 6789",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98122"
+    },
+    "website": "https://hulya.netlify.app/",
+    "resumedownload": "hulya_karakaya.PDF",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hulya.karakaya.144",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hulya-karakaya/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hulyarkya/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/hulyak",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Udacity",
+        "degree": "Front-End Developer",
+        "graduated": "2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Lindar Media",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Node",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "SQL & MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Travel Planner",
+        "category": "Built with RestAPIs,JavaScript ES6, Jest, Service Workers",
+        "image": "travel.png",
+        "url": "https://github.com/hulyak/travel-app"
+      },
+      {
+        "title": "React Movie",
+        "category": "Built with React also added cookies with session storage and local storage",
+        "image": "movie.png",
+        "url": "https://focused-heisenberg-ae03ee.netlify.app/155"
+      },
+      {
+        "title": "E-commerce",
+        "category": "Web application built with data persistency for anonymous users and production-grade user authentication using Node.js, Express",
+        "image": "ecommerce.png",
+        "url": "https://github.com/hulyak/e-commerce"
+      },
+      {
+        "title": "Smart Brain",
+        "category": "Built with React, Face-Recognition Api, bcrypt and Postgres ",
+        "image": "smart-brain.png",
+        "url": "https://smart-brain-ai-face-recog.herokuapp.com/"
+      },
+      {
+        "title": "Movie-Fight",
+        "category": "Built with Vanilla JS, Mocha and OMDB api",
+        "image": "mf.png",
+        "url": "https://github.com/hulyak/movie-fight"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Hulya is extremely responsive and very knowledgeable. She did a great job and put in extra effort to make sure the project was done to my high expectations. I will definitely ask her to work on future projects.",
+        "user": "David Taylor"
+      },
+      {
+        "text": "Working with Hulya was fantastic! She took the time to know the project needs, find out the details, and because of this, she was very precise with her delivery time. She needed no revisions because it was done right the first time! I highly recommend her and have already asked her for another order. Her code is great and she matched the visual spec exactly. I look forward to involving her with bigger projects in the future.",
+        "user": "Elandy Barr"
+      }
+    ]
+  }
+}
