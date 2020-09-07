@@ -1,6 +1,6 @@
 
 
-
+![portfolio](public/images/portfolio.png)
 
 ## Credits
 
